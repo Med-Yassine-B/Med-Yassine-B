@@ -9,8 +9,11 @@ Game Development: Godot, Pygame, SDL
 Mobile Development: React Native (for Android apps), JAVA
 Tools: VS Code, Git, GitHub
 ```
+<img src="https://github.com/user-attachments/assets/3920a499-b50a-4754-a8fb-28a141ffb848" width="100">
+
+
 ```nasm
-I use Linux BTW
+I use Arch BTW
 ```
 - 👯 I’m looking to collaborate on **Games**,**Desktop Apps** and maybe something else 🙂
 - 🌱 I’m currently learning AI 🤖
@@ -20,19 +23,3 @@ I use Linux BTW
 ## =================================
 
 
-## 📂 Working On...
-
-### [pixelEditor](https://github.com/Med-Yassine-B/pixelEditor)
-- an editor to draw pixel art made using godot engine
-- Technologies:`Godot Engine`
-### [note-app](https://github.com/Med-Yassine-B/note-app)
-- a note app using **Godot Engine** with `copying and pasting simages support`
-- Technologies:`Godot Engine`
-<!--
-### [Game Engine](https://github.com/Med-Yassine-B/gameEngine)
-- making my own **2D Game Engine** that's using a **python** interface and running **c++** (SDL) game
-- Thechnologies: `Python`,`PyQt`, `c++`,`SDL`
--->
-### [Shapes Maker](https://github.com/Med-Yassine-B/shapesMaker)
-- a python app with a UI make from scratch using only pygame
-- Thechnologies: `Python`,`Pygame`
