@@ -15,8 +15,6 @@
 
 ---
 ```js
-- ## About Me
-
 I love digging into:
 - Operating systems internals
 - Performance optimization
