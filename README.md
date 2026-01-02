@@ -24,5 +24,4 @@ I love digging into:
 - Clean, minimal workflows - (Arch + Neovim)
 ```
 ---
-
----
+<h2 align="center"> ✨I use Arch BTW✨ </h2>
